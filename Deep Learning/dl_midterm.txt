@@ -1,0 +1,26 @@
+Dive into Deep Learning
+ch1
+ch2.1, ch2.3, ch2.4, ch2.5
+ch5.1, ch5.2, ch5.3
+ch7
+ch12
+--------------------
+Understanding Deep Learning
+ch1
+ch2
+ch4
+ch6, ch6.1, ch6.2
+ch7.1, ch7.2, ch7.3, ch7.4
+ch10
+--------------------
+Midterm Exam:
+perceptron model: definition, compute output ✅
+**backpropagation: compute gradient, update parameters ✅
+compute gradient given neural network architecture & loss function & data point ✅
+concept of overfitting & regularization (technique: dropout) ✅
+sigmoid activation, vanishing gradient (MLP => computing gradient equations of sigmoid = 0)
+chain rule terms => Zj = 1? dL/dwji = 0?
+Drawback of sigmoid
+Swap sigmoid – relu?
+Compute number of trainable parameters
+Modern cnn (VGGNet, ResNet) architecture

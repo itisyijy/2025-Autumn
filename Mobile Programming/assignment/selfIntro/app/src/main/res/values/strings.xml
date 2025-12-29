@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">selfIntro</string>
+
+    <string name="profile_name">Jeong-yun Lee</string>
+    <string name="profile_tagline">💻 Passionate about backend systems, DevOps, and cats 🐈‍⬛</string>
+    <string name="section_edu_exp">🎓 Education &amp; Experience</string>
+    <string name="content_edu_exp">🏫 Seoul National University of Science and Technology (SeoulTech)\n   • Major: ITM (Information Technology Management)\n   • 2021 – Present\n\n🔬 BIGBASE Undergraduate Researcher\n   • Working on data-driven backend systems and analytics.</string>
+    <string name="section_about">🗣️ About Me</string>
+    <string name="content_about">Hi! I am Jeong-yun Lee, studying ITM at SeoulTech. I focus on backend and DevOps, building data-driven server systems. I have used Python, Java, and C, and I enjoy learning and collaborating.</string>
+    <string name="section_skills">🧰 Skills</string>
+    <string name="skills_items">🐍 Python     ⚙️ C     ☕ Java     🗄️ SQLite     🧩 Git</string>
+    <string name="section_contact">📬 Contact</string>
+    <string name="content_contact">✉️ Email: jy020605@seoulteech.ac.kr\n💻 GitHub: github.com/itisyijy\n🌐 Blog: velog.io/@itisyijy</string>
+    <string name="action_view_projects">📁 View Projects</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_close">Close</string>
+    <string name="section_projects">Projects</string>
+    <string name="project_1_title">Mindrift: AI-Powered Emotional Diary</string>
+    <string name="project_1_desc">AI-driven diary analyzing emotions and generating reflective writing.</string>
+    <string name="project_1_detail">- Built an AI diary that analyzes emotions and generates reflective writing\n- Node.js backend with JWT, bcrypt, Helmet; SQLite for storage\n- CI/CD with GitHub Actions; deployed from Vercel to AWS EC2</string>
+    <string name="project_2_title">myRoute: Smart Travel Route Planner</string>
+    <string name="project_2_desc">Travel planner with Dijkstra-based routing and payments.</string>
+    <string name="project_2_detail">- Implemented Dijkstra-based route optimization with weighted preferences\n- Integrated Kakao Maps API for visualization and PayApp for payments\n- Firebase for authentication and data; JavaScript frontend</string>
+    <string name="project_3_title">42 Seoul 8th Cadet</string>
+    <string name="project_3_desc">Low-level C projects reimplementing core standard library features.</string>
+    <string name="project_3_detail">- Own library to replace libc functions\n- Custom implementation of printf\n- Line reader from text file until EOF\n- Sorting algorithm for a set of integers</string>
+</resources>

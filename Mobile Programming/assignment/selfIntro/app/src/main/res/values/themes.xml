@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SelfIntro" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Green theme colors -->
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryContainer">@color/green_primary_container</item>
+        <item name="colorSecondary">@color/green_secondary</item>
+        <item name="colorSecondaryContainer">@color/green_secondary_container</item>
+    </style>
+
+    <style name="Theme.SelfIntro" parent="Base.Theme.SelfIntro" />
+</resources>
